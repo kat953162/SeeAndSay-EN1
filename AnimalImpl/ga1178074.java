@@ -4,24 +4,25 @@ import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
 public class ga1178074 extends Animal implements Talker {
+
     @Override
     public String getAuthor() {
-        return "David Katz";
+        return "Samik Gahatraj";
     }
 
     @Override
     public String getAnimalName() {
-        return "Chameleon";
+        return "Devoted Leopard";
     }
 
     @Override
-    //I'm not citing my sources
     public String getSound() {
-        return "I can change colors, eat insects, and commit cannibalism.";
+        return "I kill herbivores, and I am a Leopard, who is devoted.";
     }
 
-    @Override
     public String getDescription() {
-        return "Very lizard";
+        return "i have spots on my body";
     }
+
+
 }
