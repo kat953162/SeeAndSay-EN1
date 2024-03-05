@@ -1,6 +1,7 @@
 package SeeAndSay;
 
 import SeeAndSay.AnimalImpl.dkatz3;
+import SeeAndSay.AnimalImpl.ur1124787;
 
 import java.util.Collections;
 import java.util.LinkedList;
@@ -16,6 +17,7 @@ public class AnimalListMaker {
 		/**  Only make modifications in this method below this point */
 
 		animalList.add(new dkatz3());
+		animalList.add(new ur1124787());
 
 		// animalList.add(new SampleAnimal());
 
