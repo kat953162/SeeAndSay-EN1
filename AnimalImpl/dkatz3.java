@@ -3,7 +3,7 @@ package SeeAndSay.AnimalImpl;
 import SeeAndSay.Animal;
 import SeeAndSay.Talker;
 
-public class ga1178074 extends Animal implements Talker {
+public class dkatz3 extends Animal implements Talker {
     @Override
     public String getAuthor() {
         return "David Katz";
