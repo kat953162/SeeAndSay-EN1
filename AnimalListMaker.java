@@ -15,6 +15,8 @@ public class AnimalListMaker {
 	private void addAllAnimals() {
 		/**  Only make modifications in this method below this point */
 
+		animalList.add(new dkatz3());
+
 		// animalList.add(new SampleAnimal());
 
 		/* EN1 Section */
