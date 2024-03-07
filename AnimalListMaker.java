@@ -27,7 +27,7 @@ public class AnimalListMaker {
 		//animalList.add(new ch1106737());
 		//animalList.add(new de1157389());
 		//animalList.add(new ga1073076());
-		//animalList.add(new ga1178074());
+		animalList.add(new ga1178074());
 		//animalList.add(new is1145345());
 		//animalList.add(new jos129715());
 		//animalList.add(new ko1168371());
